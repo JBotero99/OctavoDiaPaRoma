@@ -12,5 +12,6 @@ Algunos tipos son:
 * Heap sort
 * Counting sort
 * Radix sort
-* Bucket sort
+* Bucket sort \
+\
 Cada uno con su algoritmo diferente, siendo unos más efectivos que otros. Por ejemplo el bubble sorting no es muy efectivo que digamos, ya que este compara pares de elementos adyacentes y los intercambia si llegan a estar en el orden incorrecto, siendo bastante tediosos y demorado cuando son demasiados datos.
